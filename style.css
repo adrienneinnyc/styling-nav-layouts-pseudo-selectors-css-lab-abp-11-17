@@ -69,6 +69,6 @@ nav a:hover {
   color: #0056b3;
 }
 
-links a:hover {
+#links a:hover {
   text-decoration: underline;
 }

@@ -96,4 +96,7 @@ nav a:hover {
   text-decoration: none;
 }
 
-
+.btn a:hover {
+  background-color: #0069d9;
+  border-color: #0069d9;
+}
